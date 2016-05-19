@@ -3,8 +3,8 @@
     <string name="app_name">GetYourReviews</string>
     <string name="btn_reviews">Alle Bewertungen</string>
     <string name="reviewBy">rezensiert von</string>
-    <string name="title">Berlin Tempelhof Lufthavn: The Legend of Tempelhof</string>
-    <string name="btn_add_review">Submit a review</string>
-    <string name="comment">Your review</string>
-    <string name="comment_title">Title</string>
+    <string name="title">Berlin Tempelhof Lufthavn: Die Legende von Tempelhof</string>
+    <string name="btn_add_review">Senden Sie eine Rezension </string>
+    <string name="comment">Ihre Meinung </string>
+    <string name="comment_title">Titel</string>
 </resources>
