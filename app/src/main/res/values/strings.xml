@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GetYourReviews</string>
+    <string name="btn_reviews">See all reviews</string>
+    <string name="reviewBy">reviewed by</string>
+    <string name="title">Berlin Tempelhof Airport: The Legend of Tempelhof</string>
+    <string name="btn_add_review">Submit a review</string>
+    <string name="comment">Your review</string>
+    <string name="comment_title">Title</string>
+</resources>

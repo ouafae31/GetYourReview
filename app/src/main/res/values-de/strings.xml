@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GetYourReviews</string>
+    <string name="btn_reviews">Alle Bewertungen</string>
+    <string name="reviewBy">rezensiert von</string>
+    <string name="title">Berlin Tempelhof Lufthavn: The Legend of Tempelhof</string>
+    <string name="btn_add_review">Submit a review</string>
+    <string name="comment">Your review</string>
+    <string name="comment_title">Title</string>
+</resources>
